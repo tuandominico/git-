@@ -1,0 +1,38 @@
+1. Git essentials
+    - Git is a version control system used for tracking changes in computer files. 
+    - Distributed, efficency, 
+
+
+git server
+
+
+
+repository 
+remote repository
+local repository
+
+file status in git
+unstracked 
+unmodified 
+modified 
+staged 
+
+git set up
+
+git commands
+
+git init
+git clone url 
+git add <file-name> 
+git add . // thêm tất cả vào vùng theo dõi
+git commit -m
+git push -u: đâỷ lên lần đầu tiên
+git push: các lần tiếp theo 
+git pull: 
+
+git config --global user.name "dominicotuan"
+git config --global use.email "dquangtuan07@gmail.com"
+
+
+git init
+git status
