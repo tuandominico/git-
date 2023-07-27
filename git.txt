@@ -1,3 +1,5 @@
+========= GIT ESSENTIALS =======
+
 1. Git essentials
     - Git is a version control system used for tracking changes in computer files. 
     - Distributed, efficency, 
@@ -36,3 +38,19 @@ git config --global use.email "dquangtuan07@gmail.com"
 
 git init
 git status
+
+=============================== GIT BRANCH =====================
+
+git nhánh là gì? 
+    - git branch: là cáCH dùng để phân nhánh và ghi lại lịch sử 
+    không ảnh hưởng đến các brach khác nên không có thể thục hiện nhiều thay đổi đô g
+    đồng thời trong một repository
+    git brach đã được phân nhánh có thể chaỵh song song với nahu mà  không ảnh hưởng gì tới nhau
+
+    khi các nhánh cần tông hợp lịa với nhau ta chỉ cần hợp lại một nhánh khác
+
+    Master brach, your team brach, your branch 
+    
+
+
+
